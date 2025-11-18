@@ -1,0 +1,46 @@
+body{
+    background-color:aliceblue;
+}
+#name{
+    text-decoration-color:brown;
+    background-color: antiquewhite; 
+}
+#head{
+    text-align: center;
+}
+#post{
+    position: relative;
+    left: 10px;
+    font-size: larger;
+}
+p{
+    text-indent: 5px;
+    font-size: large;
+}
+ul{
+    text-align: right;
+    list-style: none;
+}
+li{
+    color:blueviolet;
+    background-color: bisque;
+    display: inline;
+    padding: 1%;
+}
+link:hover{
+    color: black;
+}
+a:link{
+    text-decoration: none;
+}
+.picture{
+    background-color: white;
+    float: left; 
+    width: 25%;
+}
+.details{
+    background-color: antiquewhite; 
+    float: left;
+    width: 75%;
+    height: 340px;
+}
